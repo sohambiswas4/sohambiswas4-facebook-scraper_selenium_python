@@ -29,7 +29,7 @@ password=input("enter your fb password")
 
 url='http://www.facebook.com/'
 
-driver = webdriver.Chrome("c:/Users/soham/Downloads/chromedriver_win32/chromedriver") # webdriver dir... 
+driver = webdriver.Chrome(" ... enter the directory of our webdriver ...") # webdriver dir... 
 
 driver.get(url)
 driver.find_element_by_id('email').send_keys(username)
