@@ -6,6 +6,6 @@
 - webdriver
 
 ### To run:
-- Run the fb.py
+- Run fb.py
 ### Output:
 - The profile pic and bio will be scrapped and saved in to the same directory.
