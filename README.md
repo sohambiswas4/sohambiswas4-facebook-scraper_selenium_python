@@ -1,8 +1,11 @@
-# sohambiswas4-facebook-scraper_selenium_python
-### Code Requirements
+# facebook-scraper_selenium_python
+### Requirements:
 
-- Selenium(`pip install selenium`)
-- Beautifulsoup4(`pip install beautifulsoup4`)
+- Selenium( pip install selenium )
+- Beautifulsoup4( pip install beautifulsoup4 )
+- webdriver
 
-### To run the model:
+### To run:
 - Run the fb.py
+### Output:
+- The profile pic and bio will be scrapped and saved in to the same directory.
